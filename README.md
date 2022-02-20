@@ -14,7 +14,6 @@ Criado junto aos cursos de PYTHON do @alura
 ## ⚠ Pré-requisitos/Bibliotecas
 
 - random
-- 
 
 ## 🔽 Instalando
 
