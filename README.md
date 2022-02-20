@@ -1,6 +1,34 @@
-# python_jogos_alura
-Programação em PYHTON de jogos de adivinhação com @Alura
+# @ do 🐂
 
-Executar o Main para iniciar os jogos de adivinhação ou forca.
+> Um programa de jogos de adivinhação / Forca.
 
-Divirta-se 
+## 💡 De onde veio?
+
+Criado junto aos cursos de PYTHON do @alura
+
+
+## 📡 Tecnologias
+
+- PYTHON
+
+## ⚠ Pré-requisitos/Bibliotecas
+
+- random
+- 
+
+## 🔽 Instalando
+
+### Clone esse respositório:
+
+```
+git clone https://github.com/leonardo-abe/python_jogos_alura
+import random
+```
+
+
+### Inicie:
+
+```
+execute o arquivo main.py
+```
+
