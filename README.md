@@ -1,4 +1,4 @@
-# @ do 🐂
+## 🎮 Python Jogos
 
 > Um programa de jogos de adivinhação / Forca.
 
